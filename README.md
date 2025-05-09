@@ -19,7 +19,7 @@ Flight Scraper efficiently parses HTML content to deliver structured JSON data w
 
 ---
 
-## 🚀 Features (In Progress)
+## Features (In Progress)
 
 - ✅ Extracts detailed flight information  
 - ✅ Provides structured JSON output for easy API integration  
@@ -35,7 +35,7 @@ Flight Scraper efficiently parses HTML content to deliver structured JSON data w
 
 ---
 
-## 📦 Installation
+## Installation
 
 Just copy paste the code
 ```bash
@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-## 📦 How to Run
+## How to Run
 Open the Postman and make a GET request for below URL:
 ```
 http://localhost:3000/visit

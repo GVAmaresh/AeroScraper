@@ -1,0 +1,26 @@
+{
+  "name": "web_scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "start": "",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "npx nodemon src/server.ts",
+    "build": "tsc",
+    "test": "jest --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "playwright": "^1.52.0"
+  }
+}
